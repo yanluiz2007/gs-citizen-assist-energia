@@ -1,6 +1,6 @@
 # Citizen Assist AI — Energia em Casa
 
-**Global Solution 2026.2 — Ciência da Computação (1CC) — FIAP**
+**Global Solution 2026.2 — Ciência da Computação (1CCPY) — FIAP**
 **Disciplina: Soluções em Energias Renováveis e Sustentáveis**
 
 ## Integrantes
@@ -9,7 +9,7 @@
 |---|---|
 | Yan Luiz Neves Lemos | 571717 |
 | Matheus da Costa Gonçalves | 570756 |
-| Guilherme Wadt de Oliveira | 56937 |
+| Guilherme Wadt de Oliveira | 569375 |
 
 ## Público e problema
 
